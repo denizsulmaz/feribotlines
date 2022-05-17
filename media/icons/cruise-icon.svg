@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="55" height="55" viewBox="0 0 55 55">
-  <g id="cruise-icon" transform="translate(-27 -128)">
-    <circle id="Ellipse_279" data-name="Ellipse 279" cx="27.5" cy="27.5" r="27.5" transform="translate(27 128)" fill="#fff"/>
-    <g id="cruise-icon-2" data-name="cruise-icon" transform="translate(39.989 8.666)">
-      <path id="Path_2619" data-name="Path 2619" d="M41.272,143.647l.227-.066h5.28l-1.827-2.8H27.021v1.661h3.536l2.37,3.633Z" transform="translate(-25.525)" fill="#2b3991"/>
-      <path id="Path_2620" data-name="Path 2620" d="M16.211,221.369,0,226.084v3.584H23.936l4.416-8.3Zm2.7,4.4H17.249v-1.661h1.663Zm3.325,0H20.575v-1.661h1.663Z" transform="translate(0 -76.127)" fill="#2b3991"/>
-    </g>
-  </g>
-</svg>
