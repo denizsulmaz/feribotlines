@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-1{fill:#f7931d}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:none}
+        </style>
+        <clipPath id="clip-path">
+            <path id="Path_2763" d="M0 0h24v24H0z" class="cls-1" data-name="Path 2763" transform="translate(176 204)"/>
+        </clipPath>
+    </defs>
+    <g id="Mask_Group_31" class="cls-2" data-name="Mask Group 31" transform="translate(-176 -204)">
+        <g id="ic-date-range-24px" transform="translate(178.906 206.906)">
+            <path id="Path_2765" d="M7.547 8.821H6.031v1.516h1.516zm3.031 0H9.063v1.516h1.516zm3.031 0h-1.515v1.516h1.516zm1.516-5.3h-.758V2h-1.515v1.516H6.789V2H5.274v1.516h-.758a1.509 1.509 0 0 0-1.508 1.515L3 15.641a1.515 1.515 0 0 0 1.516 1.516h10.61a1.52 1.52 0 0 0 1.516-1.516V5.031a1.52 1.52 0 0 0-1.516-1.515zm0 12.126H4.516V7.3h10.61z" class="cls-1" data-name="Path 2765" transform="translate(-.726 -.484)"/>
+            <path id="Path_2766" d="M0 0h18.189v18.189H0z" class="cls-3" data-name="Path 2766"/>
+        </g>
+    </g>
+</svg>
