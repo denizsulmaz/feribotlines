@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55" height="55" viewBox="0 0 55 55">
+  <g id="hotel-icon" transform="translate(-27 -128)">
+    <circle id="Ellipse_279" data-name="Ellipse 279" cx="27.5" cy="27.5" r="27.5" transform="translate(27 128)" fill="#fff"/>
+    <g id="hotel-icon-2" data-name="hotel-icon" transform="translate(41 65.679)">
+      <g id="Group_254" data-name="Group 254" transform="translate(8.732 84.363)">
+        <g id="Group_253" data-name="Group 253" transform="translate(0 0)">
+          <path id="Path_2617" data-name="Path 2617" d="M166.08,154.6H151.236c-.725,0-1.936.275-1.936,2.141v2.854h18.716v-2.854C168.016,154.881,166.805,154.6,166.08,154.6Z" transform="translate(-149.3 -154.6)" fill="#2b3991"/>
+        </g>
+      </g>
+      <g id="Group_256" data-name="Group 256" transform="translate(0 80)">
+        <g id="Group_255" data-name="Group 255" transform="translate(0 0)">
+          <path id="Path_2618" data-name="Path 2618" d="M4.7,89.978H1.872V80H0V99.342H1.872V94.347H26.828v4.989H28.7V89.978Z" transform="translate(0 -80)" fill="#2b3991"/>
+        </g>
+      </g>
+      <g id="Group_258" data-name="Group 258" transform="translate(2.375 84.246)">
+        <g id="Group_257" data-name="Group 257" transform="translate(0 0)">
+          <circle id="Ellipse_280" data-name="Ellipse 280" cx="2.614" cy="2.614" r="2.614" fill="#2b3991"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
